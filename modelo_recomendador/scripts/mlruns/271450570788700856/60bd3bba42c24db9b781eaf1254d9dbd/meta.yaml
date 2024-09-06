@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/60bd3bba42c24db9b781eaf1254d9dbd/artifacts
+end_time: 1724830535732
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: 60bd3bba42c24db9b781eaf1254d9dbd
+run_name: adorable-roo-897
+run_uuid: 60bd3bba42c24db9b781eaf1254d9dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724830524889
+status: 3
+tags: []
+user_id: ulises

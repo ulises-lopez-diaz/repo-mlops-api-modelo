@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/acf55e0a1be54bb69d5dd0ef0067e026/artifacts
+end_time: 1724730206989
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: acf55e0a1be54bb69d5dd0ef0067e026
+run_name: luxuriant-turtle-665
+run_uuid: acf55e0a1be54bb69d5dd0ef0067e026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724730206981
+status: 3
+tags: []
+user_id: ulises

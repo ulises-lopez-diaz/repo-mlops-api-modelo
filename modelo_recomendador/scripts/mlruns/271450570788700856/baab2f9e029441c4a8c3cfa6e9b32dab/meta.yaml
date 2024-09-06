@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/baab2f9e029441c4a8c3cfa6e9b32dab/artifacts
+end_time: 1724829714397
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: baab2f9e029441c4a8c3cfa6e9b32dab
+run_name: bald-lamb-586
+run_uuid: baab2f9e029441c4a8c3cfa6e9b32dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724829713742
+status: 3
+tags: []
+user_id: ulises

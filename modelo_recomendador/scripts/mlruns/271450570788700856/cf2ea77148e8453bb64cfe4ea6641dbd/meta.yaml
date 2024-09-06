@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/cf2ea77148e8453bb64cfe4ea6641dbd/artifacts
+end_time: 1724822620799
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: cf2ea77148e8453bb64cfe4ea6641dbd
+run_name: bold-cub-185
+run_uuid: cf2ea77148e8453bb64cfe4ea6641dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724822567776
+status: 3
+tags: []
+user_id: ulises

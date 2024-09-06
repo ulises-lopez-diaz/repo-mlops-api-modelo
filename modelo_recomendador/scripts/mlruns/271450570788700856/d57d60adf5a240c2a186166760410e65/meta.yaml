@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/d57d60adf5a240c2a186166760410e65/artifacts
+end_time: 1724822528554
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: d57d60adf5a240c2a186166760410e65
+run_name: inquisitive-shoat-41
+run_uuid: d57d60adf5a240c2a186166760410e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724822461805
+status: 3
+tags: []
+user_id: ulises

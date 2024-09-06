@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/ee1f41d594ce41f5bc168a799449cf55/artifacts
+end_time: 1724829731032
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: ee1f41d594ce41f5bc168a799449cf55
+run_name: sassy-snail-738
+run_uuid: ee1f41d594ce41f5bc168a799449cf55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724829730250
+status: 3
+tags: []
+user_id: ulises

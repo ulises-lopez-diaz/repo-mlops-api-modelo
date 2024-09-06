@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/a9d76b91debd40f193eb5a3259556314/artifacts
+end_time: 1724729567829
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: a9d76b91debd40f193eb5a3259556314
+run_name: useful-fish-732
+run_uuid: a9d76b91debd40f193eb5a3259556314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724729567817
+status: 3
+tags: []
+user_id: ulises

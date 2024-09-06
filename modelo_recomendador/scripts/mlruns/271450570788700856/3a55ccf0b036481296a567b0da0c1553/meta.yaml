@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/3a55ccf0b036481296a567b0da0c1553/artifacts
+end_time: 1724729640058
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: 3a55ccf0b036481296a567b0da0c1553
+run_name: delightful-hawk-847
+run_uuid: 3a55ccf0b036481296a567b0da0c1553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724729588604
+status: 3
+tags: []
+user_id: ulises

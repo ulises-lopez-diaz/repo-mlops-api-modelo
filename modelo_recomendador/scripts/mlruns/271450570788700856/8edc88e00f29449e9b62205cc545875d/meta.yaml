@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/8edc88e00f29449e9b62205cc545875d/artifacts
+end_time: 1724829667719
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: 8edc88e00f29449e9b62205cc545875d
+run_name: bittersweet-bear-420
+run_uuid: 8edc88e00f29449e9b62205cc545875d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724829663499
+status: 3
+tags: []
+user_id: ulises

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/319430643798527702/e3ab2d9c417b47ba8be07adb5250358b/artifacts
+end_time: 1724817777106
+entry_point_name: ''
+experiment_id: '319430643798527702'
+lifecycle_stage: active
+run_id: e3ab2d9c417b47ba8be07adb5250358b
+run_name: resilient-steed-564
+run_uuid: e3ab2d9c417b47ba8be07adb5250358b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724817730250
+status: 3
+tags: []
+user_id: ulises

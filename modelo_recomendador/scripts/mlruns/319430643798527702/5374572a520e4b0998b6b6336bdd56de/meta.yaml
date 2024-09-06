@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/319430643798527702/5374572a520e4b0998b6b6336bdd56de/artifacts
+end_time: 1724817846495
+entry_point_name: ''
+experiment_id: '319430643798527702'
+lifecycle_stage: active
+run_id: 5374572a520e4b0998b6b6336bdd56de
+run_name: overjoyed-roo-559
+run_uuid: 5374572a520e4b0998b6b6336bdd56de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724817803114
+status: 3
+tags: []
+user_id: ulises

@@ -1,0 +1,6 @@
+artifact_location: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856
+creation_time: 1724729526935
+experiment_id: '271450570788700856'
+last_update_time: 1724729526935
+lifecycle_stage: active
+name: Algoritmos de Recomendación con FP-Growth

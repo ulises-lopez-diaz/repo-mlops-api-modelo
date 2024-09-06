@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ulises/developer/mlops_wizeline_data/modelo_recomendador/scripts/mlruns/271450570788700856/3647eca1b0a043358ceffe3c27977d2b/artifacts
+end_time: 1724830519547
+entry_point_name: ''
+experiment_id: '271450570788700856'
+lifecycle_stage: active
+run_id: 3647eca1b0a043358ceffe3c27977d2b
+run_name: classy-hound-38
+run_uuid: 3647eca1b0a043358ceffe3c27977d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724830508487
+status: 3
+tags: []
+user_id: ulises
